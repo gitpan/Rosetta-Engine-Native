@@ -1,0 +1,9 @@
+                           Rosetta-Engine-Native
+---------------------------------------------------------------------------
+
+TODO
+
+* It is currently too early in development to make a TODO document specific
+to the "Rosetta-Engine-Native" distribution.  Meanwhile, please see the
+file lib/Rosetta/TODO.pod in the separate "Rosetta" distribution, which is
+broad enough to cover all distributions that make up the Rosetta framework.

@@ -1,0 +1,52 @@
+                           Rosetta-Engine-Native
+---------------------------------------------------------------------------
+
+by Darren Duncan <perl@DarrenDuncan.net>
+
+PREFACE
+
+This distribution features the Perl 5 module named
+"Rosetta::Engine::Native"; see the file lib/Rosetta/Engine/Native.pm for
+the main documentation, which is in POD format, plus the Dependencies and
+Copyright.  The distribution also includes a Changes file to say what
+changes already happened, and a TODO file to say what changes have yet to
+happen.  Read below for how to get support or keep up to date.
+
+KEEPING UP TO DATE
+
+My module set is constantly under development.  The canonical copies are
+all linked to through my website, "http://www.DarrenDuncan.net/", on the
+page called "Perl Libraries I Made" (name subject to change).
+
+For those of you that are interested in the bleeding edge of development, I
+have all parts of this "Rosetta-Engine-Native" distribution in one or more
+public Subversion repositories.  The code base is available in 2 parallel
+versions at "http://svn.openfoundry.org/pugs/ext/Rosetta-Engine-Native/"
+(Perl 6) and at "http://svn.utsl.gen.nz/trunk/Rosetta-Engine-Native/" (Perl
+5).
+
+You can download slightly older versions of all of my modules from the
+public CPAN archives at "http://www.cpan.org/authors/id/D/DU/DUNCAND/", or
+on my own web server at "http://www.DarrenDuncan.net/d/perl".
+
+CPAN also extracts the POD from modules and maintains that documentation in
+an organized and searchable fashion.  Their main search site is at
+"http://search.cpan.org", and my own DUNCAND author page is at
+"http://search.cpan.org/search?author=DUNCAND".
+
+You can download my oldest tarred and gzipped distributions from BACKPAN,
+at "http://history.perl.org/backpan/authors/id/D/DU/DUNCAND/", or from my
+web server, at "http://www.DarrenDuncan.net/d/perl/archives/", right back
+to the libdwg 1.0, first released on 2000 July 23.
+
+SUPPORT
+
+Currently I don't have any support arranged with other people, lists,
+newsgroups, or otherwise.  Feel free to ask me if you can't figure things
+out on your own, or another person whom you know has used this.  I may
+start a mailing list for support issues later, so that users of my modules
+can help each other with them.
+
+FIN
+
+Share and Enjoy!

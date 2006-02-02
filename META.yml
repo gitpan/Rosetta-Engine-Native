@@ -1,0 +1,19 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Rosetta-Engine-Native
+version:      v0.1.0
+version_from: lib/Rosetta/Engine/Native.pm
+installdirs:  site
+requires:
+    Class::Std:                    0.0.4
+    Class::Std::Utils:             0.0.2
+    Locale::KeyedText:             1.72.0
+    only:                          0
+    Readonly:                      1.03
+    Rosetta:                       0.720.0
+    Rosetta::Validator:            0.720.0
+    Test::More:                    0
+    version:                       0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.17

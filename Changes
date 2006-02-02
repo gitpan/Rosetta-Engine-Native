@@ -1,0 +1,60 @@
+                           Rosetta-Engine-Native
+---------------------------------------------------------------------------
+
+2006-02-01   Darren Duncan <perl@DarrenDuncan.net>
+
+    * Rosetta-Engine-Native Release 0.1.0/0.001000 (SVN r1203).
+
+    * This release is concurrently available in both Perl 5 and Perl 6
+    versions.  The Perl 5 version is in the same distribution as this
+    Changes file.  The Perl 6 version is bundled with Pugs-6.2.11 (released
+    on 2006-02-01), in its ext/Rosetta-Engine-Native/ subdirectory.
+
+    * Initial code file versions are: Native.pm 0.1.0 and en.pm 0.1.0.
+
+    * Initial external dependencies are: 'version', 'only', 'Readonly'
+    1.03, Class::Std 0.0.4, Class::Std::Utils 0.0.2, Locale::KeyedText
+    1.72.0, 'Rosetta' 0.720.0, Test::More, Rosetta::Validator 0.720.0.
+
+    * This is the first release of the Rosetta-Engine-Native distribution.
+    This is the first release of any distribution to contain
+    Rosetta::Engine::Native.  This is the first release of any distribution
+    for which some of the existing work that became the
+    Rosetta-Engine-Native distribution was in the form of executable code,
+    and not just design documentation.
+
+    * This is the initial file manifest:
+
+        Changes
+        GPL
+        INSTALL
+        lib/Rosetta/Engine/Native.pm
+        lib/Rosetta/Engine/Native/L/en.pm
+        Makefile.PL
+        MANIFEST
+        META.yml
+        README
+        t/Rosetta_Engine_Native.t
+        TODO
+
+2005-09-08   Darren Duncan <perl@DarrenDuncan.net>
+
+    * These did not exist and were not cited by the public announcement for
+    Rosetta/SQL-Routine developer release #3.
+
+2005-04-03   Darren Duncan <perl@DarrenDuncan.net>
+
+    * These did not exist and were not cited by the public announcement for
+    SQL-Routine/Rosetta developer release #2.
+
+2004-08-06   Darren Duncan <perl@DarrenDuncan.net>
+
+    * These did not exist and were not cited by the public announcement for
+    Rosetta/SQL-SyntaxModel developer release #1.
+
+2002-06-07
+
+    * This is when I started writing self-contained code components that
+    were explicitly designed to enable external code that used them to work
+    seamlessly on multiple database products, and hence 2002 is the start
+    of my declared copyright date range for the Rosetta framework.

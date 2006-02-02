@@ -1,0 +1,11 @@
+Changes
+GPL
+INSTALL
+lib/Rosetta/Engine/Native.pm
+lib/Rosetta/Engine/Native/L/en.pm
+Makefile.PL
+MANIFEST
+META.yml
+README
+t/Rosetta_Engine_Native.t
+TODO
